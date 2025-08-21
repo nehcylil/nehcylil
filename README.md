@@ -1,4 +1,14 @@
-## Hi there 👋
+### 🌟 Research Interests
+- Information Science & Human-Computer Interaction
+- Data Analysis & Visualization
+- Digital Marketing & Communication
+- Database & Information Systems
+
+### 📚 Education
+- B.A. in Library and Information Science, National Taiwan University
+- Exchange Student, University of Southampton, United Kingdom
+
+
 
 <!--
 **nehcylil/nehcylil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
